@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm AMEIN ??</h1>
-  <h3>?? Building, Learning & Contributing</h3>
+  <h1>You have a Great Taste</h1>
+  <h3>I am doing Something atleast</h3>
   <img src="https://komarev.com/ghpvc/?username=AMEINo96&color=70a5fd&style=flat-square&label=Profile+Views" alt="Views" />
 </div>
 
