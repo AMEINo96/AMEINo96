@@ -2,11 +2,10 @@
 
 # Muhammad Amein
 
-**Software Engineer · Computer Vision & ML Explorer · BS Computer Science @ NUST**
+**Software Engineer · Computer Vision & ML Explorer · BS Artificial Intelligence @ NUST**
 
-[![Email](https://img.shields.io/badge/Email-amein.work%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:amein.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AMEINo96-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMEINo96)
-[![Live App](https://img.shields.io/badge/Live%20Project-NUST%20Central-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nust-central.vercel.app)
+[![Email](https://img.shields.io/badge/Email-muhammadamein6%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:muhammadamein6@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-potatoplayz96-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/potatoplayz96)
 
 </div>
 
@@ -33,7 +32,7 @@ Imma Human , i try to learn and not sleep before 9 .
 
 **Web & Frameworks** · `FastAPI` `Node.js` `Express` `React` `Next.js` `Raylib`
 
-**Tools & Platforms** · `Git` `GitHub` `Linux` `VS Code` `Postman` `Vercel`
+**Tools & Platforms** · `Git` `GitHub` `Linux` `VS Code` `Postman`
 
 ---
 
@@ -53,8 +52,8 @@ Imma Human , i try to learn and not sleep before 9 .
 
 ```text
                   ┌─────────────────────────────────────────┐
-    Clients & UI  │   Campus-Concierge · Web · Raylib GUI   │
-                  │   nust-central.vercel.app · Mobile      │
+    Clients & UI  │       ClimaDiet · Web · Raylib GUI      │
+                  │         Web · Desktop · Mobile          │
                   └────────────────────┬────────────────────┘
                                        │
                   ┌────────────────────▼────────────────────┐
@@ -79,7 +78,7 @@ Imma Human , i try to learn and not sleep before 9 .
 
 | Focus | Project | Description | Link |
 | :--- | :--- | :--- | :---: |
-| **Campus Portal** | [`Campus-Concierge`](https://github.com/AMEINo96/Campus-Concierge) | Central campus concierge platform with modern UI & navigation | [Live App](https://nust-central.vercel.app) |
+| **Campus Portal** | [`Campus-Concierge`](https://github.com/AMEINo96/Campus-Concierge) | Central campus concierge platform with modern UI & navigation | [Repository](https://github.com/AMEINo96/Campus-Concierge) |
 | **Vision AI** | [`YOLO Object Detection`](https://github.com/AMEINo96/2026-04-23-real-time-object-detection-using-yolo) | Real-time object detection and tracking pipeline using YOLO & OpenCV | [Repository](https://github.com/AMEINo96/2026-04-23-real-time-object-detection-using-yolo) |
 | **Deep Learning** | [`Facial Emotion Recognition`](https://github.com/AMEINo96/facial_emotion_recognition) | Real-time facial expression and emotion analysis with Computer Vision | [Repository](https://github.com/AMEINo96/facial_emotion_recognition) |
 | **Document AI** | [`OCR System`](https://github.com/AMEINo96/OCR-System) | Intelligent document scanning & character recognition using Tesseract & OpenCV | [Repository](https://github.com/AMEINo96/OCR-System) |
@@ -102,7 +101,7 @@ Imma Human , i try to learn and not sleep before 9 .
 - [`Fraud-Detection-Model`](https://github.com/AMEINo96/Fraud-Detection-Model) — ML classification model for fraud screening
 
 ### 🌐 Web & Full-Stack Applications
-- [`Campus-Concierge`](https://github.com/AMEINo96/Campus-Concierge) / [`Campus-Concierge-Backend`](https://github.com/AMEINo96/Campus-Concierge-Backend) — Campus utility ecosystem deployed at [nust-central.vercel.app](https://nust-central.vercel.app)
+- [`Campus-Concierge`](https://github.com/AMEINo96/Campus-Concierge) / [`Campus-Concierge-Backend`](https://github.com/AMEINo96/Campus-Concierge-Backend) — Campus utility and navigation ecosystem
 - [`pulse-social-platform`](https://github.com/AMEINo96/pulse-social-platform) — Modern interactive web social interface
 - [`JaralMobiles`](https://github.com/AMEINo96/JaralMobiles) — E-commerce application frontend with TypeScript
 - [`FailFast-DB`](https://github.com/AMEINo96/FailFast-DB) — Experimental lightweight database architecture in TypeScript
