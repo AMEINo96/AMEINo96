@@ -1,53 +1,121 @@
 <div align="center">
-  <h1>You have a Great Taste</h1>
-  <h3>I am doing Something atleast</h3>
-  <img src="https://komarev.com/ghpvc/?username=AMEINo96&color=70a5fd&style=flat-square&label=Profile+Views" alt="Views" />
-</div>
 
-<br/>
+# Muhammad Amein
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,express,html,css,git,github,docker,mongodb,postgres" />
-</div>
+**Software Engineer · Computer Vision & ML Explorer · BS Computer Science @ NUST**
 
-<br/>
+[![Email](https://img.shields.io/badge/Email-amein.work%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:amein.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AMEINo96-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMEINo96)
+[![Live App](https://img.shields.io/badge/Live%20Project-NUST%20Central-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nust-central.vercel.app)
 
-### ?? Real-Time GitHub Activity Dashboard
-<div align="center">
-  <a href="https://github.com/AMEINo96">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMEINo96&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMEINo96&layout=donut&theme=tokyonight&langs_count=8" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/AMEINo96">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMEINo96&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-### ?? Contribution Wave Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMEINo96&theme=tokyo-night&area=true&hide_border=true" width="100%" />
-</div>
-
-### ?? Achievements & Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AMEINo96&theme=tokyonight&no-frame=true&margin-w=4" />
 </div>
 
 ---
 
-### ?? Featured Repositories
+## 👨‍💻 Who I Am
 
-| Project | Description | Tech Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| ?? **Project Alpha** | Feature-rich fullstack application | `React` `Node.js` `MongoDB` | [View Repo](https://github.com/AMEINo96) |
-| ? **Project Beta** | High-performance API & backend services | `Python` `FastAPI` `PostgreSQL` | [View Repo](https://github.com/AMEINo96) |
-| ??? **Project Gamma** | Interactive tool & utility suite | `TypeScript` `Next.js` | [View Repo](https://github.com/AMEINo96) |
+I build software across the stack — from real-time computer vision models and machine learning pipelines to high-performance C++ systems and scalable web platforms.
 
-<br/>
+- 🎓 **Undergraduate** at **National University of Sciences & Technology (NUST)**
+- 👁️ **Computer Vision & AI** — Object detection (YOLO), facial expression recognition, and OCR document processing
+- 🌐 **Full-Stack & Platforms** — Campus Concierge ([nust-central.vercel.app](https://nust-central.vercel.app)) with Python & JavaScript/TypeScript
+- ⚡ **Core Systems & Algorithms** — High-performance data structures, algorithms, and Raylib GUI desktop engines in C++
+
+> *"Continuous learning, rigorous problem solving, and building tools that make an impact."*
+
+---
+
+## 🛠️ Tech I Use
+
+**Languages** · `C++` `Python` `TypeScript` `JavaScript` `Java` `SQL` `HTML5` `CSS3`
+
+**AI / Vision / ML** · `OpenCV` `YOLO` `Tesseract` `PyTorch` `Scikit-Learn` `Pandas` `NumPy`
+
+**Web & Frameworks** · `FastAPI` `Node.js` `Express` `React` `Next.js` `Raylib`
+
+**Tools & Platforms** · `Git` `GitHub` `Linux` `VS Code` `Postman` `Vercel`
+
+---
+
+## 📊 Live Telemetry
 
 <div align="center">
-  <sub>? Dashboard dynamically refreshes on every commit, PR, and review!</sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AMEINo96&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AMEINo96&hide_border=true&background=0d1117&border=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="165" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMEINo96&layout=donut&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165" alt="Top Languages Donut" />
+
+</div>
+
+---
+
+## 🏗️ Architecture & Pipeline
+
+```text
+                  ┌─────────────────────────────────────────┐
+    Clients & UI  │   Campus-Concierge · Web · Raylib GUI   │
+                  │   nust-central.vercel.app · Mobile      │
+                  └────────────────────┬────────────────────┘
+                                       │
+                  ┌────────────────────▼────────────────────┐
+    Backend & API │      FastAPI · Python · Node.js Core    │
+                  └────────────────────┬────────────────────┘
+                                       │
+             ┌─────────────────────────┼─────────────────────────┐
+             ▼                         ▼                         ▼
+      ┌─────────────┐           ┌─────────────┐           ┌─────────────┐
+      │ Vision & AI │           │     ML      │           │  C++ / DSA  │
+      │ YOLO·OpenCV │           │  Detection  │           │ Performance │
+      │  Tesseract  │           │ Clustering  │           │   Engines   │
+      └─────────────┘           └─────────────┘           └─────────────┘
+                                       │
+                                       ▼
+                   Actionable Insights · Real-Time Inference
+```
+
+---
+
+## 🌟 Featured Orbit
+
+| Focus | Project | Description | Link |
+| :--- | :--- | :--- | :---: |
+| **Campus Portal** | [`Campus-Concierge`](https://github.com/AMEINo96/Campus-Concierge) | Central campus concierge platform with modern UI & navigation | [Live App](https://nust-central.vercel.app) |
+| **Vision AI** | [`YOLO Object Detection`](https://github.com/AMEINo96/2026-04-23-real-time-object-detection-using-yolo) | Real-time object detection and tracking pipeline using YOLO & OpenCV | [Repository](https://github.com/AMEINo96/2026-04-23-real-time-object-detection-using-yolo) |
+| **Deep Learning** | [`Facial Emotion Recognition`](https://github.com/AMEINo96/facial_emotion_recognition) | Real-time facial expression and emotion analysis with Computer Vision | [Repository](https://github.com/AMEINo96/facial_emotion_recognition) |
+| **Document AI** | [`OCR System`](https://github.com/AMEINo96/OCR-System) | Intelligent document scanning & character recognition using Tesseract & OpenCV | [Repository](https://github.com/AMEINo96/OCR-System) |
+| **Machine Learning**| [`Fraud Detection Model`](https://github.com/AMEINo96/Fraud-Detection-Model) | Custom-built machine learning classifier for transactional risk evaluation | [Repository](https://github.com/AMEINo96/Fraud-Detection-Model) |
+| **Desktop GUI** | [`Skill Match GUI`](https://github.com/AMEINo96/skill_match_gui) | Desktop application built with C++ and the Raylib graphics engine | [Repository](https://github.com/AMEINo96/skill_match_gui) |
+
+---
+
+## 📂 Full Repository Directory
+
+<details>
+<summary><b>🔍 Expand to view categorized repositories</b></summary>
+<br/>
+
+### 🤖 Artificial Intelligence & Computer Vision
+- [`2026-04-23-real-time-object-detection-using-yolo`](https://github.com/AMEINo96/2026-04-23-real-time-object-detection-using-yolo) — YOLO-based object detection & video stream inference
+- [`facial_emotion_recognition`](https://github.com/AMEINo96/facial_emotion_recognition) — Computer vision model for facial emotion classification
+- [`OCR-System`](https://github.com/AMEINo96/OCR-System) — Optical Character Recognition pipeline with Python, OpenCV & Tesseract
+- [`Customer-Segmentation`](https://github.com/AMEINo96/Customer-Segmentation) — Unsupervised clustering for customer behavior analysis
+- [`Fraud-Detection-Model`](https://github.com/AMEINo96/Fraud-Detection-Model) — ML classification model for fraud screening
+
+### 🌐 Web & Full-Stack Applications
+- [`Campus-Concierge`](https://github.com/AMEINo96/Campus-Concierge) / [`Campus-Concierge-Backend`](https://github.com/AMEINo96/Campus-Concierge-Backend) — Campus utility ecosystem deployed at [nust-central.vercel.app](https://nust-central.vercel.app)
+- [`pulse-social-platform`](https://github.com/AMEINo96/pulse-social-platform) — Modern interactive web social interface
+- [`JaralMobiles`](https://github.com/AMEINo96/JaralMobiles) — E-commerce application frontend with TypeScript
+- [`FailFast-DB`](https://github.com/AMEINo96/FailFast-DB) — Experimental lightweight database architecture in TypeScript
+- [`music-player-design`](https://github.com/AMEINo96/2026-04-23-music-player-design-a-web-based) — Interactive web-based audio player
+
+### ⚡ C++ Systems & Data Structures
+- [`skill_match_gui`](https://github.com/AMEINo96/skill_match_gui) — C++ desktop GUI application using Raylib
+- [`DSA-LAB-5`](https://github.com/AMEINo96/DSA-LAB-5) / [`lab-4-DSA`](https://github.com/AMEINo96/lab-4-DSA) / [`Lab-3-DSA`](https://github.com/AMEINo96/Lab-3-DSA) — Advanced algorithms, trees, and graph implementations in C++
+
+</details>
+
+---
+
+<div align="center">
+  <sub>✨ Dashboard telemetry automatically updates with every commit, pull request, and code review.</sub>
 </div>
