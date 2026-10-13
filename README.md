@@ -14,11 +14,11 @@
 
 ## 👨‍💻 Who I Am
 
-I build software across the stack — from real-time computer vision models and machine learning pipelines to high-performance C++ systems and scalable web platforms.
+Imma Human , i try to learn and not sleep before 9 . 
 
 - 🎓 **Undergraduate** at **National University of Sciences & Technology (NUST)**
 - 👁️ **Computer Vision & AI** — Object detection (YOLO), facial expression recognition, and OCR document processing
-- 🌐 **Full-Stack & Platforms** — Campus Concierge ([nust-central.vercel.app](https://nust-central.vercel.app)) with Python & JavaScript/TypeScript
+- 🌐 **Full-Stack & Platforms** — ClimaDiet with Python & JavaScript/TypeScript
 - ⚡ **Core Systems & Algorithms** — High-performance data structures, algorithms, and Raylib GUI desktop engines in C++
 
 > *"Continuous learning, rigorous problem solving, and building tools that make an impact."*
