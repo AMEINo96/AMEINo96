@@ -4,7 +4,7 @@
 
 **Software Engineer · Computer Vision & ML Explorer · BS Artificial Intelligence @ NUST**
 
-[![Email](https://img.shields.io/badge/Email-muhammadamein6%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:muhammadamein6@gmail.com)
+[![Email](https://img.shields.io/badge/Email-muhammadamein6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=muhammadamein6@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-potatoplayz96-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/potatoplayz96)
 
 </div>
